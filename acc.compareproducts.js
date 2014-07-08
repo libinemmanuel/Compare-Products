@@ -1,4 +1,5 @@
 
+var ACC = ACC || {};
 ACC.compareproducts = {
 		category:"",
 		ajaxURL:"",
